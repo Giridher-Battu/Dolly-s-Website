@@ -1,0 +1,32 @@
+.logoImg {
+    width: 20%;
+    height: fit-content;
+}
+
+.bg-red {
+    background-color: #2b4e71;
+}
+.page_block {
+    background-position-x: fixed;
+    /* top:0px;
+   bottom:0px;
+   left:0px;
+  right:0px; */
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txtstyle {
+    color: white;
+    text-decoration: none;
+}
+.carouselImage {
+    height: 500px;
+}
+.aligncenter{
+    /* display: flex !important; */
+    justify-content: center !important;
+    align-items: center !important;
+}
